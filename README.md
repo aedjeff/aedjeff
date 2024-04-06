@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student currently pursuing Information Technology, actively trying to learn all there is about computer science.
+I'm interested to work in creative projects and learn new stuff.
+
