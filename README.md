@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **aedjeff/aedjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student currently pursuing Information Technology, actively trying to learn all there is about computer science.
+Hello, I'm a student currently pursuing Information Technology, actively trying to learn all there is about computer science.
 I'm interested to work in creative projects and learn new stuff.
+
+#### Skills
+
+-Web Development
+-Backend Languages
+  -C
+  -C++
+  -Java
+-Music Production
+
 
