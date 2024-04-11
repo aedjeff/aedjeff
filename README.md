@@ -1,5 +1,3 @@
-
-
 <!--
 **aedjeff/aedjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,11 +18,11 @@ I'm interested to work in creative projects and learn new stuff.
 
 #### Skills
 
--Web Development
--Backend Languages
-  -C
-  -C++
-  -Java
--Music Production
+- Web Development
+- Backend Languages
+  - C
+  - C++
+  - Java
+- Music Production
 
 
